@@ -1,0 +1,9 @@
+{
+	"name": "olamazureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "40c06541-0f49-4ed2-9831-3125fadb40b9",
+		"tenantId": "75c57447-1979-4650-84a1-78813471226e"
+	}
+}
